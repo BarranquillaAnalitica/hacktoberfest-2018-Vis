@@ -1,9 +1,11 @@
 # Reto de Visualización de Datos Hacktoberfest Barranquilla 2018
-Te invitamos...
+Te invitamos a participar en el reto de visualización de datos. Aporta tus PRs y gana una camiseta oficial de [hacktoberfest](https://hacktoberfest.digitalocean.com/).
 
-Evaluaremos que siga los [principios del Storytelling](sitio)
+Evaluaremos la estética de los gráficos, el impacto, la capacidad de transmitir la información deseada contando una historia.
 
-Aquí encontrarás la base de datos con la que se realizará el reto de visualización. Puedes hacerlo con la herramienta que desees, desde Excel hasta D3.
+Para que tengas una guía de lo que esperamos encontrar, puedes ver el siguiente [video](https://youtu.be/8EMW7io4rSI) o leer el siguiente [artículo](https://vizard.co/storytelling-with-data/).
+
+Aquí encontrarás la base de datos con la que se realizará el reto de visualización. Puedes hacerlo con la herramienta que desees, desde Excel hasta D3. Ten en cuenta que herramientas de código te permitirán sumar PRs para una camiseta.
 
 ## Premios
 **1er puesto:**
