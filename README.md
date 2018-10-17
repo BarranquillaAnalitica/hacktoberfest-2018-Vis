@@ -12,13 +12,15 @@ Cuentanos tu mejor historia haciendo uso de los datos de los partidos de la copa
 ## Premios
 **1er puesto:**
 * Bono Regalo Éxito de $150.000
-* Plumero Lamy
-* Un Balón
+* Maletín
+* Paraguas
+* Balón
 * Tula con termo, colores, libreta, plumeros.
 
 **2do puesto:**
-* Un Cargador portátil de celular
-* Un Paragua
+* Plumero Lamy
+* Maletín
+* Paraguas
 * Balón
 * Tula con termo, colores, libreta, plumeros.
 
