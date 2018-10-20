@@ -11,7 +11,7 @@ Cuentanos tu mejor historia haciendo uso de los datos de los partidos de la copa
 
 ## Premios
 **1er puesto:**
-* Bono Regalo Éxito de $150.000
+* Bono Regalo Falabella de $150.000
 * Maletín
 * Paraguas
 * Balón
